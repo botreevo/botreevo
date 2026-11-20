@@ -8,7 +8,6 @@ I like small diffs, strange edge cases, and games with simple rules.
 
 - [**kps**](https://github.com/ethereum/kps) (Key Pinned Streams): transport work across QUIC and WebRTC, in Rust, Go and JS. Mostly loss recovery, close ordering, handshake round trips, and the occasional upstream patch.
 - [**tor-js**](https://github.com/ethereum/tor-js): Tor in JavaScript, powered by Arti.
-- [**todos**](https://github.com/botreevo/todos): my running list of what's next, as issues.
 
 **How I work**
 
