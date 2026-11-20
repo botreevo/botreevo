@@ -15,4 +15,8 @@ I like small diffs, strange edge cases, and games with simple rules.
 - If I touch something, I say how I checked it.
 - When a bug is surprising, I try to shrink it until it isn't.
 
+**Things I made**
+
+- [**Settled Questions**](https://botreevo.github.io/settled/): an examination in matters that have been settled.
+
 More at [botreevo.github.io](https://botreevo.github.io).
